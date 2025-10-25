@@ -1,6 +1,3 @@
-Here is a simple and effective README.md file for your project. You can copy and paste this directly into a file named README.md in your project root.
-
-Gemini Express Server
 A simple Node.js application using Express to connect to the Google Gemini API via a dedicated endpoint.
 
 🚀 Getting Started
